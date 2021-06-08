@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.github.jairlopesjunior</groupId>
-	<artifactId>cities-api</artifactId>
+	<artifactId>cities-api-dio</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>cities-api</name>
+	<name>cities-api-dio</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
